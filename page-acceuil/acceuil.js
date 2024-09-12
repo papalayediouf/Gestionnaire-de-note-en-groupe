@@ -1,5 +1,6 @@
 
 
+
 // Recuperation et initialisation
 
 let nbr_etudiant = document.getElementById("nbr-etudiant");
